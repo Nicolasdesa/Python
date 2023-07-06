@@ -1,7 +1,5 @@
-# Progrmas de Python
-Curso do básico ao avançado
+# Programas de Python
 
 ## Conteúdos:
-
 ### Seção 1:
 - 
