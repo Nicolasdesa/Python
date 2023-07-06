@@ -1,2 +1,7 @@
-# Python3-udemy
- Curso de python do iniciante ao avançado
+# Progrmas de Python
+Curso do básico ao avançado
+
+## Conteúdos:
+
+### Seção 1:
+- 
