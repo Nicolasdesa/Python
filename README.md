@@ -3,3 +3,4 @@
 ## Conteúdos:
 ### Seção 1:
 - Variáveis
+- Operadores aritméticos
