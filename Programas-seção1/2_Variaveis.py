@@ -1,3 +1,5 @@
+#Exercício para fixação de Variáveis
+
 nome = "Nicolas"
 sobrenome = "de Sá"
 idade = 20
