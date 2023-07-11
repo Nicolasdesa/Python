@@ -2,6 +2,6 @@
 
 ## Conteúdos:
 ### Seção 1:
-- Variáveis
-- Operadores aritméticos
-- Formatação de Strings
+1. Variáveis
+2. Operadores aritméticos
+3. Formatação de Strings
