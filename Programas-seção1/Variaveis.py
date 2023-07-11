@@ -1,7 +1,7 @@
 nome = "Nicolas"
 sobrenome = "de Sá"
 idade = 20
-ano_nascimento = 2003
+ano_nascimento = 2023 - idade
 maior_de_idade = idade >= 18
 altura_metros = 1.78
 
