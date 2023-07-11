@@ -4,3 +4,4 @@
 ### Seção 1:
 - Variáveis
 - Operadores aritméticos
+- Formatação de Strings
