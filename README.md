@@ -6,5 +6,4 @@
 - Operadores aritméticos
 - Formatação de Strings
 - Input para coleta de dados
-- Operadores de condição
-- Operadores de comparação
+- Operadores lógicos

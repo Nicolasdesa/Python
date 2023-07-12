@@ -1,6 +1,5 @@
 #Exercício de fixação com input() para coleta de dados
-#Exercício de fixação de condições e comparações
-
+#Exercício de fixação de operadores lógicos
 primeiro_valor = input("Digite um valor: ")
 segundo_valor = input("Digite outro valor: ")
 
