@@ -6,3 +6,4 @@
 - Operadores aritméticos
 - Formatação de Strings
 - Operadores lógicos
+- Índices e fatiamento
