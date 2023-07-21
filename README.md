@@ -3,8 +3,9 @@
 ## Conteúdos:
 ### Seção 1:
 - Variáveis
-- Operadores aritméticos
+- Operadores Aritméticos
 - Formatação de Strings
-- Operadores lógicos
-- Índices e fatiamento
-- Blocos de condição
+- Operadores Lógicos
+- Índices e Fatiamento
+- Blocos de Condição
+- Blocos de Repetição
