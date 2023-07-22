@@ -9,3 +9,4 @@
 - Índices e Fatiamento
 - Blocos de Condição
 - Blocos de Repetição
+- Tratamento de erros
