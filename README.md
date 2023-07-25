@@ -10,3 +10,4 @@
 - Blocos de Condição
 - Blocos de Repetição
 - Tratamento de erros
+- Listas
