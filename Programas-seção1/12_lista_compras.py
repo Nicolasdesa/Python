@@ -10,21 +10,26 @@ while True:
     funcao = input("Que tarefa você deseja realizar: \n \t [a]dicionar, [e]xcluir, [l]istar itens: ")
 
     if funcao.lower().startswith("a"): # Bloco de adição de itens
+        os.system("cls")
         adicionar = input("Qual item você deseja adicionar? ")
         lista.append(adicionar)
+        print(f"Item {adicionar} foi adicionado")
 
     elif funcao.lower().startswith("e"): # Bloco de exclusão
-        try: excluir = int(input("Qual indice você deseja excluir? "))
+        try: 
+            excluir = int(input("Qual indice você deseja excluir? "))
+            del lista[excluir]
+            print(f"O item {lista[excluir]} foi removido")
         except: print("Coloque apenas numeros disponveis na lista")
-        print(f"O item {lista[excluir]} foi removido")
-        del lista[excluir]
 
     elif funcao.lower().startswith("l"): # Bloco de listagem
         os.system("cls")
-        for i in enumerate(lista):
-            indice, item = i
-            print(indice, item)
+        if len(lista) > 0:
+            for indice, item in enumerate(lista):
+                print(indice, item)
+        else: print("Sua lista esta vazia")
 
     else:
+        os.system("cls")
         print("Selecione apenas as opções disponíveis")
         continue
