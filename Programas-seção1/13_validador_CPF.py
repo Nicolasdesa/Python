@@ -1,10 +1,16 @@
 # Exercício de conclusão do módulo 1
 # Objetivo: Criar um programa para validar o CPF inserido
 
-cpf_enviado = "74682489070"
-nove_digitos = cpf_enviado[:9]  #Separa os 9 diígitos da String, através de fatiamento
+cpf_enviado = "746.824.890-70" \
+    .replace(".", "") \
+    .replace("-", "")   # Substituição de caracteres para o CPF ficar integro
+
+nove_digitos = cpf_enviado[:9]  #Separa os 9 diígitos da String
 contador_regressivo1 = 10
 soma_cpf = 0
+
+if cpf_enviado[0] * len(cpf_enviado) == cpf_enviado:
+    print("CPF inválido")
 
 for digito in nove_digitos:
     soma_cpf += int(digito) * contador_regressivo1 # Int digito porque era uma Str
