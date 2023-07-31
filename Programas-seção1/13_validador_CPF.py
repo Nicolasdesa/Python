@@ -2,7 +2,7 @@
 # Objetivo: Criar um programa para validar o CPF inserido
 
 cpf_enviado = "74682489070"
-nove_digitos = cpf[:9]  #Separa os 9 diígitos da String, através de fatiamento
+nove_digitos = cpf_enviado[:9]  #Separa os 9 diígitos da String, através de fatiamento
 contador_regressivo1 = 10
 soma_cpf = 0
 
