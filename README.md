@@ -1,5 +1,9 @@
 # Programas de Python
 
+### Módulos:
+1. Básico
+2. Intermediário
+---
 ## Seção 1: Básico
 - Variáveis
 - Operadores Aritméticos
@@ -10,5 +14,5 @@
 - Blocos de Repetição
 - Tratamento de erros
 - Listas
-
+---
 ## Seção 2: Intermediário
