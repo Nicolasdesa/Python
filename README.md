@@ -1,7 +1,6 @@
 # Programas de Python
 
-## Conteúdos:
-### Seção 1:
+## Seção 1: Básico
 - Variáveis
 - Operadores Aritméticos
 - Formatação de Strings
@@ -11,3 +10,5 @@
 - Blocos de Repetição
 - Tratamento de erros
 - Listas
+
+## Seção 2: Intermediário
