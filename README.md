@@ -1,9 +1,7 @@
-# Programas de Python
-
-### Módulos:
+# Módulos:
 1. Básico
 2. Intermediário
----
+
 ## Seção 1: Básico
 - Variáveis
 - Operadores Aritméticos
