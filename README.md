@@ -15,3 +15,4 @@
 - Listas
 
 ## **Seção 2: Intermediário**
+- Funções
