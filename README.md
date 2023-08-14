@@ -16,3 +16,4 @@
 
 ## **Seção 2: Intermediário**
 - Funções
+- High order function / Closure
